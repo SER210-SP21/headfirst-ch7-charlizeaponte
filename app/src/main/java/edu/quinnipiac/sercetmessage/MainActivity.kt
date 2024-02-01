@@ -1,8 +1,8 @@
 /**
  * @author Charlize Aponte
  * 1/31/24
- * Assignment: Demo from Chapter 6: Screen Message
- * The program allows you to write a secret message by using navigation
+ * Assignment: Demo from Chapter 7: Screen Message
+ * The program allows you to write a secret message and loop back to the welcome screen by using navigation
  */
 package edu.quinnipiac.sercetmessage
 
